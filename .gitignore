@@ -1,0 +1,4 @@
+# Model backups
+backup/
+*.FCBak
+print/
