@@ -18,3 +18,6 @@ Scrimp bot is free hardware.
 
 ![open hardware](./images/open_hardware.svg)
 
+## Progress
+
+![progress_07](./images/progress_08.png)
