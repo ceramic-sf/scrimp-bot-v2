@@ -20,4 +20,10 @@ Scrimp bot is free hardware.
 
 ## Progress
 
-![progress_07](./images/progress_08.png)
+![progress_12](./images/progress_12_roller_screw.png)
+
+![progress_12](./images/progress_12_assembled.png)
+
+![progress_15](./images/progress_15.png)
+
+![progress_15](./images/progress_15_inside.png)
